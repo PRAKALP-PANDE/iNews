@@ -1,0 +1,37 @@
+What is the useEffect in React?
+
+    What does useEffect do? By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we'll refer to it as our “effect”), and call it later after performing the DOM updates.
+
+
+
+How do I use setState in React?
+    Before updating the value of the state, we need to build an initial state setup. Once we are done with it, we use the setState() method to change the state object. It ensures that the component has been updated and calls for re-rendering of the component.
+
+What is meant by setState?
+    setState() schedules an update to a component's state object. When state changes, the component responds by re-rendering.
+
+
+Adding React Router Components: The main Components of React Router are:
+
+BrowserRouter: 
+    BrowserRouter is a router implementation that uses the HTML5 history API(pushState, replaceState and the popstate event) to keep your UI in sync with the URL. It is the parent component that is used to store all of the other components.
+
+Routes: 
+    It’s a new component introduced in the v6 and a upgrade of the component. The main advantages of Routes over Switch are: Relative s and s
+
+    Routes are chosen based on the best match instead of being traversed in order.
+
+"Routes: To render a single component, wrap all the routes inside the Routes Component."
+
+Route: 
+    Route is the conditionally shown component that renders some UI when its path matches the current URL.
+
+Link:
+    Link component is used to create links to different routes and implement navigation around the application. It works like HTML anchor tag.
+
+
+What are Hooks?
+    Hooks are a new addition in React 16.8. They let developers use state and other React features without writing a class For example- State of a component
+
+
+Most developers prefer using functional components over class-based components for the simple reason that functional components require less coding (on the developer’s part).

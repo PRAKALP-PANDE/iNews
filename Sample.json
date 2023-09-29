@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Mazoe Ford",
+            "title": "Shane Warne's friends in Thailand meet with police to discuss returning his body to Australia",
+            "description": "Friends of Shane Warne who were staying with him in Thailand before his unexpected death meet with Thai Police to discuss repatriating the Australian cricketing great's body.",
+            "url": "http://www.abc.net.au/news/2022-03-05/shane-warne-death-friends-in-thailand-meet-police-repatriation/100885956",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c4c14d56426f60609352a52aaefc0270?impolicy=wcms_crop_resize&cropH=831&cropW=1478&xPos=0&yPos=257&width=862&height=485",
+            "publishedAt": "2022-03-05T11:09:05Z",
+            "content": "Friends of Shane Warne who were staying with him in Thailand before his unexpected death have met with Thai Police to discuss repatriating the Australian cricketing great's body.\r\n<ul><li>The police … [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Daniel Jeffrey",
+            "title": "State funeral offered after Australian cricket legend Shane Warne dies aged 52",
+            "description": "<p>Tributes have poured in from around Australia and the world following Shane Warne&#x27;s passing, with the Victorian Premier announcing the MCG&#x27;s largest grandstand will be permanently renamed in his honour.</p>",
+            "url": "https://www.9news.com.au/national/shane-warne-death-state-funeral-tributes-mcg-stand-renamed/2af13ec4-844c-4433-8a85-eed843c37ff8",
+            "urlToImage": "https://imageresizer.static9.net.au/L6MHDQzUqwbwYokMi5vrU_vTPo8=/0x21:1024x597/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F82c2e841-d102-4ece-83a6-7ff816463588",
+            "publishedAt": "2022-03-05T11:05:00+00:00",
+            "content": "Property News: House prices in some school catchments explode by up to $367,000 - domain.com.au"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Melbourne stand to be named after Warne",
+            "description": "Tributes pour in for cricketing great Shane Warne, who died on Friday, with a stand at the Melbourne Cricket Ground to be named after him and a minute's silence held before Australia men and women's matches.",
+            "url": "http://www.bbc.co.uk/sport/cricket/60630111",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14409/production/_123535928_warne_reuters.jpg",
+            "publishedAt": "2022-03-05T09:52:22.2486707Z",
+            "content": "Tributes have come from around the world following Shane Warne's death on Friday\r\nA minute's silence was held before Australia men and women's matches as tributes to continued to pour in for Shane Wa… [+2548 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "AFP",
+            "title": "'No foul play suspected' at Shane Warne villa: Thai police",
+            "description": "Thai police on Saturday ruled out foul play in the shock death of Australian cricket superstar Shane Warne, who died of a suspected heart attack while on holiday on the paradise island of Koh Samui aged just 52.",
+            "url": "https://www.news24.com/sport/Cricket/no-foul-play-suspected-at-shane-warne-villa-thai-police-20220305-2",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2800/46df1c1625124fd28931d29b638e4758.jpg",
+            "publishedAt": "2022-03-05T09:50:31+00:00",
+            "content": "Thai police on Saturday ruled out foul play in the shock death of Australian cricket superstar Shane Warne, who died of a suspected heart attack while on holiday on the paradise island of Koh Samui a… [+5137 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Tributes paid to 'greatest showman' Warne",
+            "description": "Australia Test captain Pat Cummins calls Shane Warne a \"once-in-a-century cricketer\" as he leads tributes to the iconic leg-spinner who died on Friday aged 52.",
+            "url": "http://www.bbc.co.uk/sport/cricket/60626656",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/AEB3/production/_123532744_gettyimages-53352186.jpg",
+            "publishedAt": "2022-03-05T08:07:24.4364791Z",
+            "content": "Shane Warne: Pat Cummins pays tribute to 'all-time great'\r\nAustralia Test captain Pat Cummins says Shane Warne was a \"once-in-a-century cricketer\" as he led the tributes to the iconic leg-spinner who… [+4210 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Lloyd Burnard",
+            "title": "Flawless Khaka fires Proteas to victory in World Cup opener",
+            "description": "The Proteas are off to a winning start at the Women's Cricket World Cup in New Zealand, cruising to victory over Bangladesh in their tournament opener in Dunedin on Saturday.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/flawless-khaka-fires-proteas-to-victory-in-world-cup-opener-20220305",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2766/044d2cdbd066451cb8271f360679711c.jpg",
+            "publishedAt": "2022-03-05T07:32:05+00:00",
+            "content": "The Proteas are off to a winning start at the Women's Cricket World Cup in New Zealand, securing a 32-run victory over Bangladesh in their tournament opener in Dunedin on Saturday. \r\nRanked No 2 in w… [+2160 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "AFP",
+            "title": "Shane Warne to receive Australian state funeral: 'One of our nation's great characters'",
+            "description": "Prime Minister Scott Morrison on Saturday said Australians were \"bewildered\" by a \"sad and sudden loss\" of Shane Warne, and announced the cricketing hero would receive a state funeral.",
+            "url": "https://www.news24.com/sport/Cricket/shane-warne-to-receive-australian-state-funeral-one-of-our-nations-great-characters-20220305",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2693/695c5a3c106546e98017d9ea2e89fabf.jpg",
+            "publishedAt": "2022-03-05T05:56:09+00:00",
+            "content": "Prime Minister Scott Morrison on Saturday said Australians were \"bewildered\" by a \"sad and sudden loss\" of Shane Warne, and announced the cricketing hero would receive a state funeral.\r\n\"He was one o… [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Josh Fordham",
+            "title": "‘Shane Warne is the greatest cricketer I’ve ever seen’ – Steve Harmison, David ‘Bumble’ Lloyd and Mike Gatt...",
+            "description": "",
+            "url": "https://talksport.com/sport/cricket/1056657/shane-warne-tributes-steve-harmison-australia-cricket-icon/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/03/TALKSPORT-Warne.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2022-03-04T21:07:00Z",
+            "content": "The great and good of the cricket world lined up to pay tribute to Shane Warne on talkSPORT after the Australian icon’s tragic death at the age of 52.\r\nWarne was a larger-than-life character and a pi… [+5801 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "'Adulation and scandal... but arguably cricket's best ever bowler' - Warne obituary",
+            "description": "Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters.",
+            "url": "http://www.bbc.co.uk/sport/cricket/60624556",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/DB3B/production/_123532165_warne97.jpg",
+            "publishedAt": "2022-03-04T19:52:21.7019733Z",
+            "content": "Comfortably history's best leg-spinner, arguably history's best bowler and surpassed only by Sir Donald Bradman as Australia's greatest cricketer, Shane Keith Warne has died of a suspected heart atta… [+5271 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
